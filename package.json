@@ -15,7 +15,15 @@
 
 
    
-
+"path": "^0.12.7",
+    "pdf-puppeteer": "^1.1.10",
+    "pdftohtmljs": "^0.6.0",
+    "phone": "^3.1.19",
+    "pluralize": "^8.0.0",
+    "posthog-node": "^3.1.2",
+    "pupa": "2.1.1",
+    "puppeteer": "^21.7.0",
+    "puppeteer-core": "^1.9.0",
   
    
 
