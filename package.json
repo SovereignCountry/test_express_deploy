@@ -94,11 +94,6 @@
     "pluralize": "^8.0.0",
     "posthog-node": "^3.1.2",
 
-    
-    "node-quickbooks": "^2.0.39",
-    "puppeteer-core": "^1.9.0",
-
-
     "readmeio": "^6.0.1",
     "short-unique-id": "^4.4.4",
     "sift": "^17.0.1",
@@ -115,6 +110,10 @@
     "uuid": "^9.0.0",
     "write": "^2.0.0",
     "yup": "0.32.9"
+
+    "node-quickbooks": "^2.0.39",
+    "puppeteer-core": "^1.9.0",
+    "pdf-puppeteer": "^1.1.10",
 },
   "devDependencies": {
     "@architect/sandbox": "1.9.6",
