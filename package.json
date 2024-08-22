@@ -109,11 +109,11 @@
     "us": "^2.0.0",
     "uuid": "^9.0.0",
     "write": "^2.0.0",
-    "yup": "0.32.9"
+    "yup": "0.32.9",
 
     "node-quickbooks": "^2.0.39",
     "puppeteer-core": "^1.9.0",
-    "pdf-puppeteer": "^1.1.10",
+    "pdf-puppeteer": "^1.1.10"
 },
   "devDependencies": {
     "@architect/sandbox": "1.9.6",
