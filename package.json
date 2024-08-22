@@ -96,7 +96,7 @@
 
     
     "node-quickbooks": "^2.0.39",
-   
+    "puppeteer-core": "^1.9.0",
 
 
     "readmeio": "^6.0.1",
