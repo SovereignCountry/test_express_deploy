@@ -112,8 +112,8 @@
     "yup": "0.32.9",
 
     "node-quickbooks": "^2.0.39",
-    "puppeteer": "^21.7.0",
-    "pdf-puppeteer": "^1.1.10"
+    "puppeteer": "^22.8.2",
+    "pdf-puppeteer": "^22.8.2"
 },
   "devDependencies": {
     "@architect/sandbox": "1.9.6",
