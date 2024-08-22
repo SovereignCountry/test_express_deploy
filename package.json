@@ -112,7 +112,7 @@
     "yup": "0.32.9",
 
     "node-quickbooks": "^2.0.39",
-    "puppeteer-core": "^1.9.0",
+    "puppeteer": "^21.7.0",
     "pdf-puppeteer": "^1.1.10"
 },
   "devDependencies": {
